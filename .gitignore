@@ -1,0 +1,4 @@
+## .gitignore file for flatbuffers-scaffold
+
+## ignore folder fetched through gclient
+flatbuffers
